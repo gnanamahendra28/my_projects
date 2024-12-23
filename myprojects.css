@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.my-project-bg-container {
+    background-color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    font-family: "bree Serif";
+}
+
+.home-page-image {
+    width: 40vw;
+    margin: 5px;
+
+}
+
+.my-project-headding {
+    font-size: 5vw;
+    color: #183b56;
+}
+
+.my-project-pasage {
+    font-size: 2vw;
+    color: #616e7c;
+}
+
+.bg-container-tech {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 70vw;
+
+}
+
+.Technologies-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.Technologies-main-heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+
+.Technologies-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button1 {
+    background-color: #ffffff;
+    color: #5650a9;
+    border-radius: 8px;
+    height: 35px;
+    width: 130px;
+    border-color: #f2f5f8;
+    border-width: 2px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.button2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    height: 35px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.bg-container-diwali {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/09/82/19/39/1000_F_982193995_R1otFXsDtPX79REn2W7Y43LRuMgACSkZ.jpg");
+    height: 40vh;
+    width: 75vw;
+    background-size: cover;
+}
+
+.diwali-main-heading {
+    font-size: 45px;
+    font-family: "Caveat";
+    padding: 50px;
+    color: white;
+    width: 300px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.diwali-bottom-cards {
+    background-color: lightblue;
+    width: 75vw;
+    text-align: center;
+    padding: 45px;
+
+}
+
+.diwali-card-image {
+    height: 100px;
+    width: 80px;
+}
+
+.diwali-card {
+    background-color: white;
+    width: 160px;
+    height: 210px;
+    border-radius: 10px;
+    margin: 30px;
+
+}
+
+.diwali-card-text {
+    font-family: "roboto";
+    font-size: 13px;
+    padding: 3px;
+}
+
+.diwali-card-text-price {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bg-container-news {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.news-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.news-of-day-heading {
+    font-size: 14px;
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.news-main-heading {
+    font-family: "roboto";
+    color: #323f4b;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.news-paragraph {
+    font-family: "roboto";
+    font-size: 13px;
+    color: #7b8794;
+}
+
+.button-read-more {
+    margin: 1px;
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "roboto";
+    border-radius: 8px;
+    font-size: 12px;
+    height: 38px;
+    width: 115px;
+}
+
+.bg-container-hotel {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height: 120vh;
+    width: 100vw;
+    padding: 25px;
+}
+
+.hotel-card {
+    background-color: #000000e6;
+    color: #ffffff;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.hotel-car-marin-heading {
+    font-family: "bree serif";
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.hotel-card-description {
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.hotel-card-price {
+    font-size: 30px;
+    font-family: "bree Serif";
+    margin-bottom: 15px;
+}
+
+.button-book {
+    margin: 20px;
+    text-align: center;
+}
+
+.button-text {
+    background-color: #ffffff;
+    color: #010303;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    font-size: 14px;
+    border-width: 0px;
+}
